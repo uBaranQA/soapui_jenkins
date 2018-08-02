@@ -10,6 +10,14 @@
 <version>1.0-SNAPSHOT</version>
 <packaging>jar</packaging>
 <description>SoapUI training</description>
+         
+<repositories>
+    <repository>
+        <id>soapui</id>
+        <url>soapui.org/repository/maven2</url>
+    </repository>
+</repositories>
+         
 <build>
     <plugins>
         <plugin>
