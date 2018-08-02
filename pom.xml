@@ -34,7 +34,6 @@
                     </goals>
                     <phase>test</phase>
                     </execution>
-                </execution>
             </executions>
         </plugin>
     </plugins>
