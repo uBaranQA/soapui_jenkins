@@ -39,9 +39,9 @@
 
             <executions>
                 <execution>
-                    <id>RegressionTest1</id>
+                    <id>REST-Project-1-soapui-project</id>
                     <configuration>
-                        <projectFile>RegressionTest1.xml</projectFile>
+                        <projectFile>REST-Project-1-soapui-project.xml</projectFile>
 
                         <outputFolder>target/surefire-reports</outputFolder>
                         <testSuite>Positive cases</testSuite>
