@@ -12,7 +12,7 @@
 <description>SoapUI training</description>
          
 <pluginRepositories>
-    <pluginRepositoryepository>
+    <pluginReepository>
         <id>soapui</id>
         <url>soapui.org/repository/maven2</url>
     </pluginRepository>
