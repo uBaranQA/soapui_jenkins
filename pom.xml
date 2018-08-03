@@ -44,7 +44,7 @@
                         <projectFile>REST-Project-1-soapui-project.xml</projectFile>
 
                         <outputFolder>target/surefire-reports</outputFolder>
-                        <testSuite>Positive cases</testSuite>
+                        <testSuite>RegressionTest1</testSuite>
 
                         <junitReport>true</junitReport>
                         <exportwAll>true</exportwAll>
